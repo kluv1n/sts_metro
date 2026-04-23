@@ -1,0 +1,4 @@
+# Optional: better OCR on photos than Tesseract alone (~500MB+ with PyTorch).
+# pip install -r requirements-ocr-easyocr.txt
+easyocr>=1.7.1
+certifi>=2024.0.0

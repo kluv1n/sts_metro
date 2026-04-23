@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+debug/
+.hf_test_cache/
+source_model_train/ner_model/
+
+# Локальные фото СТС (не коммитить ПДн)
+data/input/*
+!data/input/.gitkeep

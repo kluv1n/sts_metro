@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "total_samples_before_exclusion": 536,
+  "holdout_samples": 0,
+  "exclude_doc_ids_file": "/Users/kryzhnyiklim/test_metro/sts_metro/source_model_train/holdout_doc_ids.txt",
+  "exclude_doc_ids_explicit_arg": false,
+  "exclude_doc_id_regex": null,
+  "total_samples": 536,
+  "total_doc_ids": 185,
+  "train_docs": 129,
+  "val_docs": 27,
+  "test_docs": 29,
+  "train_samples": 374,
+  "val_samples": 80,
+  "test_samples": 82
+}
