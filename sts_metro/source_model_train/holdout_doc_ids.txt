@@ -1,9 +1,0 @@
-# Впиши doc_id БЕЗ # в начале строки — как в твоих file*.json (см. команду ниже).
-# Формат в данных: sts_001, sts_042, …  НЕ sts_01 (такого id в file*.json нет).
-#
-# Список всех id:
-#   PYTHONPATH=src python scripts/prepare_ner_splits.py --list-doc-ids
-#
-# Пример — раскомментируй нужные строки:
-# sts_001
-# sts_042
