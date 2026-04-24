@@ -1,0 +1,3 @@
+
+# never commit annotated OCR dataset
+sts_metro/source_model_train/sts_ocr_annotated.json
